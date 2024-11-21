@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is Fedorova Maria (Фёдорова Мария), I am from Russia, Moscow. 
+I am a student of Letovo school and study informatics, economics and mathematics as my majors.
+I'm am currenly participating in DANO olimpiad.
 
 <!--
 **Fedorova-Maria/Fedorova-Maria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
